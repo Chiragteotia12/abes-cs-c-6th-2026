@@ -11,4 +11,5 @@ const getOSDetails = () => {
     console.log("Unable to get architecture of os");
   }
 };
+
 getOSDetails();
